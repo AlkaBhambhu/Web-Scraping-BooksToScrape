@@ -24,9 +24,9 @@ For this project, I would scrape books information using python from the website
 
 > Output 📝
 
-Dataset containing information about 1000 books.
+A CSV file containing information about 1000 books.
 
 <img src='https://i.imgur.com/ofaO8xW.png' />
 
-You can find Original Notebook [here]('https://jovian.ai/alkabhambhu98/web-scraping')
+You can find Original Notebook [here](https://jovian.ai/alkabhambhu98/web-scraping)
 
