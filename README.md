@@ -18,9 +18,10 @@ For this project, I would scrape books information using python from the website
 * Examining the Books to Scrape website.
 * Reading the web page into python using Requests library.
 * Inspecting the tags to gather the required information.
+* Create a list of URL of all books looping through page 1-50.
 * For each book, we'll grab title, Price, Stock, UPC (universal product code) & link.
-* Create a data frame using Pandas library.
-* Finally, saving the information into a CSV file.
+* Creating a data frame using Pandas library & saving the information into a CSV file.
+
 
 > Output 📝
 
